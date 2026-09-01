@@ -34,9 +34,9 @@ An automatic method to take a video and remove the dynamic objects from it. Take
 
 *I was not the main contributor on this project. Some methods mentioned were developed together and applied to multiple projects, including [view interpolation for sport scenes](../view-interpolation).*
 
-[Paper here](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/dumont2014realtime.pdf)
-[Paper here](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/dumont2014plane.pdf)
-[Paper here](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/dumont2014iterative.pdf)
+[Paper here,](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/dumont2014realtime.pdf)
+[and here,](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/dumont2014plane.pdf)
+[and here](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/dumont2014iterative.pdf)
 
 We used improved stereo reconstruction and depth-aware plane sweeping for a better depth estimation used in teleconferencing with eye gaze correction.
 
@@ -46,8 +46,8 @@ We participated in the 3DUI contest in 2011 and 2012, where we were challenged t
 
 In 2011, we created a see-through AR setup to instruct players to solve a physical puzzle. This involved AR tracking and camera-projector alignment. [Paper here](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/maesen2011look.pdf)
 
-[Player playing the AR puzzle](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/maesen2011look-1.jpg)
-[See through of the AR puzzle](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/maesen2011look-2.jpg)
+![Player playing the AR puzzle](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/maesen2011look-1.jpg)
+![See through of the AR puzzle](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/maesen2011look-2.jpg)
 
 In 2012, we created a navigation method for first responders, where speech was not allowed. For this, we used a touch screen and communication using the lights in the building for the commander. We simulated the environment of the first responder using heat lamps. [Paper here](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/notelaers2012heat.pdf)
 
