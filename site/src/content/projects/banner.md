@@ -1,7 +1,7 @@
 ---
 title: 'Banner picture'
 description: 'Creating the banner image'
-publishDate: 'Sept 1 2026'
+publishDate: 'Sept 1 2010'
 isFeatured: false
 seo:
   image:
@@ -9,8 +9,8 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](../../../public/banner.png)
 *2026*
+![Project preview](../../../public/banner.png)
 
 The banner is made in Python using classical computer vision and machine learning models. Check out the code:
 

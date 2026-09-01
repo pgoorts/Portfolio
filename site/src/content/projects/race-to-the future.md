@@ -9,8 +9,8 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](../../../public/Projects/RaceToTheFuture/car.jpg)
 *2020-2023*
+![Project preview](../../../public/Projects/RaceToTheFuture/car.jpg)
 
 This competition is organized by Corda Campus, PXL-Digital and PXL-Voka Young & Strong.
 

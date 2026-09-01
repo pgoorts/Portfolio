@@ -1,7 +1,7 @@
 ---
 title: 'Simulated reality'
 description: 'Simulated reality: prototyping haptic interfaces in VR'
-publishDate: 'Sept 1 2021'
+publishDate: 'Aug 31 2013'
 isFeatured: false
 seo:
   image:
@@ -9,8 +9,8 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](../../../public/Projects/Snakecharmer/cover.png)
 *2009-2019: Research at UHasselt*
+![Project preview](../../../public/Projects/Snakecharmer/cover.png)
 
 We built a system to prototype tactile interfaces without building every prototype. The tester sees the interface in VR, and a robot moves the relevant elements in front of the finger of the tester. 
 

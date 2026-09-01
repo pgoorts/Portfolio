@@ -9,8 +9,8 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](../../../public/Projects/Spectator/cover.png)
 *2019-2026: Software engineer at Magic Leap*
+![Project preview](../../../public/Projects/Spectator/cover.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PfG9qleXIog?si=ApfNtzZ5MfLr2kZi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br />
 

@@ -9,8 +9,8 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](../../../public/Projects/Mimesys/mimesys.jpeg)
 *2019-2026: Software engineer at Magic Leap*
+![Project preview](../../../public/Projects/Mimesys/mimesys.jpeg)
 
 This project allows the live and realtime recording of persons in 3D and shows them in AR, using commodity depth cameras and processing hardware. This way, 2 or more persons can communicate in a more immersive and natural way, which is not possible in 2D video conferencing.
 

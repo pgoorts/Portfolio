@@ -9,8 +9,8 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](../../../public/banner.png)
 *2026*
+![Project preview](../../../public/banner.png)
 
 With the introduction of LLMs and coding agents in our profession, it's no doubt that our way of working is changing. As a case study, I have a few projects which I never got to, but seem more feasible now. One of these is tripplanner, an Android app to organize and plan a trip (itinerary overview, document management, lists and reminders, etc).
 

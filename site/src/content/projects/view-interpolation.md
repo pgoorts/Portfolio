@@ -9,8 +9,8 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](../../../public/Projects/phd/cover.jpg)
 *2009-2019: Research at UHasselt*
+![Project preview](../../../public/Projects/phd/cover.jpg)
 
 This project aims to increase the viewpoints available in sport scenes, especially for broadcasting. Current sports broadcasting has cameras on fixed locations, and the video stream cannot be changed after it's done. We aim to increase flexibility by generating novel views based on existing camera views, in real time, with minimal latency, on commodity hardware.
 

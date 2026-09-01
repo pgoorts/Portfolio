@@ -9,8 +9,8 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](../../../public/Projects/Lightfield/IMG_4485.jpg)
 *2009-2019: Research at UHasselt*
+![Project preview](../../../public/Projects/Lightfield/IMG_4485.jpg)
 
 Creating a 3D effect can be done with 2D screens only (and a tracker). By following the head of the viewer and adapting the image based on the viewpoint, we create a "window" effect, where it seems the viewer is looking through the screen to a 3D scene. The adapted images are either rendered as a 3D model, or recreated real images using view interpolation.
 
