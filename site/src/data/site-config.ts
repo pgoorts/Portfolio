@@ -3,17 +3,17 @@ import hero from '../assets/images/banner.png';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://patrikgoorts.com',
+    website: 'https://patrik-goorts.com',
     avatar: {
         src: avatar,
         alt: 'Patrik Goorts'
     },
     title: 'Patrik Goorts',
     subtitle: 'Computer vision problem solver',
-    description: 'Description',
+    description: 'Portfolio of Patrik Goorts, computer vision problem solver (classical and machine learning), ad parallel processing developer.',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '../assets/images/banner.png',
+        alt: 'Banner'
     },
     headerNavLinks: [
         {

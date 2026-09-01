@@ -2,13 +2,11 @@
 title: Get in touch
 seo:
   title: Contact
-  description: Get in touch through email or social media! Let me know how I can help.
+  description: 'Get in touch! Ask me questions about my work'
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+Questions about the work here, a problem you think I could help with, or something you'd just like to compare notes on: all welcome. You can reach me here: 
 
-_Email:_
-Feel free to drop me an email at [patrik@patrikgoorts.com](mailto:patrik@patrikgoorts.com)
-
-_Social Media:_
-Connect with me on social media as well. Find me on [LinkedIn](https://www.linkedin.com/in/patrikgoorts/).
+Email: [patrik@patrikgoorts.com](mailto:patrik@patrikgoorts.com)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/patrikgoorts/)
+GitHub: http://github.com/pgoorts
