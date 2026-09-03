@@ -19,7 +19,7 @@ To do this, we use view interpolation, a technique where new images are generate
 Please note this project predates Gaussian splats and similar, and view interpolation got replaced by numerous machine learning methods. The question if classical computer vision methods still have a place in the current world is open for discussion, and I believe the answer is still yes.
 
 
-# Results
+## Results
 
 ![Result](../../../public/Projects/phd/fine1.png)
 
@@ -29,7 +29,7 @@ With a virtual camera with novel, non-existing views, we can:
 * Freeze a frame and have a look from some other angle. This is impossible with existing cameras.
 * Go back to some action which a conventional camera with operator might have missed.
 
-## PhD
+### PhD
 
 This project was presented as a PhD thesis in 2014. You can find the text [here](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/phd/PatrikGoorts-PhD-final.pdf).
 
@@ -41,11 +41,11 @@ Here are some overview videos of results and the method used
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y_jeFam1p5c?si=79pk76S-cZaXLfD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br />
 
-# Method
+## Method
 
 ![Method](../../../public/Projects/phd/rendering.png)
 
-# Setup
+## Setup
 
 We place cameras around the field. These are static, pointed to overlapping pieces of the scene, and timesynced.
 
@@ -56,7 +56,7 @@ Moving cameras using PTZ cameras or live calibration is feasible, but not attemp
 ![Camera 1](../../../public/Projects/phd/cameras_s.png)
 ![Camera 2](../../../public/Projects/phd/fine4.jpg)
 
-# View interpolation
+## View interpolation
 
 We use a version of plane sweeping for the view interpolation. We choose a location of a virtual camera, where we want the image from. We divide the space before this camera in planes, at different depths. We project the real camera images on these planes and note where the image is the sharpest. This is different per element in the scene. Lastly, we keep the projection with the sharpest image and discard the rest. We also note which plane this came from, thus effectively creating a depth map.
 
@@ -67,7 +67,7 @@ The whole rendering pipeline (besides calibration) is realized in CUDA, making t
 ![Algorithm](../../../public/Projects/phd/method.png)
 
 
-# Publications
+## Anthology of Publications
 
 * Automatic Calibration of Soccer Scenes Using Feature Detection (2015) [Paper](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/goorts2015automatic.pdf)
 * Optimal Distribution of Computational Power in Free Viewpoint Interpolation by Depth Hypothesis Density Adaptation in Plane Sweeping (2014) [Paper](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/goorts2014optimal.pdf)

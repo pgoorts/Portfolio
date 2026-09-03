@@ -14,7 +14,7 @@ seo:
 
 These are a few other publications done at UHasselt. 
 
-# 2D Convolution using CUDA
+## 2D Convolution using CUDA
 
 [Paper here](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/goorts2009optimal.pdf) and [here](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/goorts2010practical.pdf)
 
@@ -22,7 +22,7 @@ Convolution (finite response filtering) on GPU is a non-trivial problem. We must
 
 This is applied in the realtime processing pipeline of the [view interpolation](../view-interpolation) for debayering the raw camera images. [Paper here](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/goorts2012raw.pdf)
 
-# Automatic removal of dynamic objects
+## Automatic removal of dynamic objects
 
 [Paper here](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/goorts2012ardo.pdf)
 
@@ -30,7 +30,7 @@ An automatic method to take a video and remove the dynamic objects from it. Take
 
 ![Automatic removal of dynamic objects](https://github.com/pgoorts/Portfolio/raw/refs/heads/main/files/Publications/goorts2012ardo.png)
 
-# Depth estimation for teleconferencing
+## Depth estimation for teleconferencing
 
 *I was not the main contributor on this project. Some methods mentioned were developed together and applied to multiple projects, including [view interpolation for sport scenes](../view-interpolation).*
 
@@ -40,7 +40,7 @@ An automatic method to take a video and remove the dynamic objects from it. Take
 
 We used improved stereo reconstruction and depth-aware plane sweeping for a better depth estimation used in teleconferencing with eye gaze correction.
 
-# Participation in the 3DUI contest
+## Participation in the 3DUI contest
 
 We participated in the 3DUI contest in 2011 and 2012, where we were challenged to create a UI for a specified application.
 
