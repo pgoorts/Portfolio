@@ -10,7 +10,7 @@ const siteConfig: SiteConfig = {
     },
     title: 'Patrik Goorts',
     subtitle: 'Computer vision problem solver',
-    description: 'Portfolio of Patrik Goorts, computer vision problem solver (classical and machine learning), ad parallel processing developer.',
+    description: 'Patrik Goorts, computer vision engineer in Belgium. Classical and learned vision, real-time GPU processing, and deployment on phones, headsets, and in the field.',
     image: {
         src: '../assets/images/banner.png',
         alt: 'Banner'
@@ -58,8 +58,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hi There!',
-        text: "I'm **Patrik Goorts**, a computer vision engineer, solving problems from definition to deployment.",
+        title: 'Computer vision, from definition to deployment',
+        text: "I'm **Patrik Goorts**. I build computer vision systems that run in the real world: on phones, on headsets, and on GPUs in the back of a stadium.<br /><br />That has meant reconstructing people in 3D for holographic calls, interpolating viewpoints between sixteen cameras at a soccer match, and pushing a 4K camera pipeline through an Android phone at 30 fps without a single memory copy. Classical algorithms where they're the right tool, trained networks where they aren't, and CUDA when it has to be fast.<br /><br />I take problems end to end: define, research, prototype, and deploy",
         image: {
             src: hero,
             alt: 'Banner'

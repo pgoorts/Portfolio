@@ -1,6 +1,6 @@
 ---
 title: 'Tripplanner, a case study of (not) vibe-coding'
-description: 'Tripplanner, a case study of (not) vibe-coding'
+description: 'Lessons learned by creating a project using agentic coding'
 publishDate: 'Sept 1 2026'
 isFeatured: true
 seo:

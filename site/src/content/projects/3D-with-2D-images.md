@@ -1,6 +1,6 @@
 ---
 title: '3D with 2D images'
-description: 'Creating a 3D effect with 2D images'
+description: 'Creating a 3D effect with 2D images. Used in digital twins, art installations, and a web viewer'
 publishDate: 'Sept 1 2013'
 isFeatured: true
 seo:

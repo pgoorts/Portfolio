@@ -1,6 +1,6 @@
 ---
 title: 'Volumetric reconstruction for holographic communication and collaboration in AR'
-description: Volumetric reconstruction for holographic communication and collaboration in AR
+description: 'Use depth cameras to create a hologram of a person, to be placed in an AR experience.'
 publishDate: 'Sept 1 2020'
 isFeatured: true
 seo:
@@ -12,7 +12,7 @@ seo:
 *2019-2026: Software engineer at Magic Leap*
 ![Project preview](../../../public/Projects/Mimesys/mimesys.jpeg)
 
-This project allows the live and realtime recording of persons in 3D and shows them in AR, using commodity depth cameras and processing hardware. This way, 2 or more persons can communicate in a more immersive and natural way, which is not possible in 2D video conferencing.
+This project allows the live and real-time recording of persons in 3D and shows them in AR, using commodity depth cameras and processing hardware. This way, 2 or more persons can communicate in a more immersive and natural way, which is not possible in 2D video conferencing.
 
 The method used a TSDF-based meshing algorithm using 2 or more depth cameras.
 

@@ -8,7 +8,7 @@ seo:
     alt: About
 ---
 
-![Alt text for image](../../assets/images/about.png)
+![About me banner](../../assets/images/about.png)
 
 I'm Patrik Goorts, a computer vision engineer based in Belgium. Give me a problem and I'll figure out how to solve it, solve it, and deploy it. I work independently and take a problem from definition through to deployment.
 

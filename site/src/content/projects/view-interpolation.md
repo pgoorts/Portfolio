@@ -1,6 +1,6 @@
 ---
 title: 'Free viewpoint video for smooth camera transitions for soccer games'
-description: 'Free viewpoint video for smooth camera transitions for soccer games. PhD defense on 16/6/2014'
+description: 'PhD defense on 16/6/2014, presenting a complete real-time computer vision pipeline.'
 publishDate: 'June 16 2014'
 isFeatured: true
 seo:

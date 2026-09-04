@@ -1,6 +1,6 @@
 ---
-title: 'Banner picture'
-description: 'Creating the banner image'
+title: 'The banner, with the code'
+description: 'A small end-to-end demo to generate the banner, with the code provided.'
 publishDate: 'Sept 1 2010'
 isFeatured: false
 seo:

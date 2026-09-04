@@ -1,6 +1,6 @@
 ---
 title: 'Other publications'
-description: 'Overview of other publications'
+description: 'Overview of other publications, including smaller CUDA projects, stereo matching, and innovative UI design.'
 publishDate: 'Aug 30 2013'
 isFeatured: false
 seo:

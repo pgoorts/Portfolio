@@ -1,6 +1,6 @@
 ---
 title: 'Spectator: a look inside an AR experience'
-description: 'Spectator: a look inside an AR experience'
+description: 'Amplifying XR experiences from one to many viewers by turning any phone into a window into the virtual world.'
 publishDate: 'Sept 1 2026'
 isFeatured: true
 seo:
@@ -24,4 +24,4 @@ This project had many contributors. I mostly worked on:
 * Professional camera controls (physical and post)
 * Person segmentation for advanced compositing (Unity Sentis and ORT)
 
-![Project preview](../../../public/Projects/Spectator/ces.png)
+![Booth at CES](../../../public/Projects/Spectator/ces.png)

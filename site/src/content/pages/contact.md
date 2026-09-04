@@ -9,4 +9,4 @@ Questions about the work here, a problem you think I could help with, or somethi
 
 Email: [patrik@patrikgoorts.com](mailto:patrik@patrikgoorts.com) (Email is protected against bots, please refresh the page if you don't see the email)  
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/patrikgoorts/)  
-GitHub: http://github.com/pgoorts  
+GitHub: https://github.com/pgoorts  
