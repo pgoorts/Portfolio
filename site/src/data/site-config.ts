@@ -3,7 +3,7 @@ import hero from '../assets/images/banner.png';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://patrik-goorts.com',
+    website: 'https://patrikgoorts.com',
     avatar: {
         src: avatar,
         alt: 'Patrik Goorts'

@@ -24,7 +24,7 @@ We used a few methods to capture and generate sufficient data for the 3D represe
 **Capture an object using a camera on a rail**
 ![Static cameras](../../../public/Projects/Lightfield/rail.jpg)
 
-**Build a custom 3D scanner and capture the object from each angle
+**Build a custom 3D scanner and capture the object from each angle**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-USIgAw_oH8?si=xrwMoXuXQk8dKRmP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br />
 
 
